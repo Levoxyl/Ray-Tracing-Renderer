@@ -5,7 +5,7 @@ To be more complex and easily accessed - an .obj file loading was added, using B
 Colors could be changeed using RGB scheme. 
 
 # How to use 
-The photo gets outputet in a .ppm ,which can be opened with **IrfanView** or be converted to .png using:
+The photo gets outputted in a .ppm ,which can be opened with **IrfanView** or be converted to .png using:
 
 `sudo apt install imagemagick`
 `convert output.ppm output.png`
