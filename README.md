@@ -6,9 +6,10 @@ Colors could be changeed using RGB scheme.
 
 # How to use 
 The photo gets outputted in a .ppm ,which can be opened with **IrfanView** or be converted to .png using:
-
-`sudo apt install imagemagick`
-`convert output.ppm output.png`
+````
+sudo apt install imagemagick
+convert output.ppm output.png
+````
 
 ## To change .obj 
 Go to line `289` and change the string. 
